@@ -1,25 +1,27 @@
 
 h1{
-    color : green;
+    color : black;
 }
 .flexContainerr{
     display: flex;
-    background-color: darkslateblue;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
+;
+
 .unique{
 display: flex;
-background-color: moccasin;
 width: 600px;
 height: 900px;
 }
 .Tarak{
 text-align:center ;
-background-color: oldlace;
+background-image :linear-gradient(blue,pink,red);
+text-shadow: 2px 2px green;
 margin: 5px;
 padding: 3px ;
 }
 .disheartened{
-background-color: mediumaquamarine;
+background-color: rgba(128,128,128,0);
 display: flex;
 justify-content: center;
 }
